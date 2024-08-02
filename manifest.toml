@@ -87,7 +87,6 @@ ram.runtime = "50M"
     [resources.apt]
     packages = [
         "postgresql",
-        "redis",
         "tzdata",
         "locales",
         "ca-certificates",
