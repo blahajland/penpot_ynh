@@ -18,18 +18,18 @@ Ini TIDAK boleh diedit dengan tangan.
 
 Design and prototyping platform meant for cross-domain teams. Non dependent on operating systems, web based and works with open standards (SVG). Penpot invites designers all over the world to fall in love with open source while getting developers excited about the design process in return.
 
-**Versi terkirim:** 2.1.1~ynh1
+**Versi terkirim:** 2.1.3~ynh1
 
 ## Tangkapan Layar
 
-![Tangkapan Layar pada Penpot](./doc/screenshots/189871786-0b44f7cf-3a0a-4445-a87b-9919ec398bf7.gif)
+![Tangkapan Layar pada Penpot](./doc/screenshots/penpot.png)
 
 ## Dokumentasi dan sumber daya
 
 - Website aplikasi resmi: <https://penpot.app/>
 - Dokumentasi pengguna resmi: <https://help.penpot.app/user-guide/>
 - Dokumentasi admin resmi: <https://help.penpot.app/technical-guide/>
-- Repositori kode aplikasi hulu: <https://github.com/penpot/penpot>
+- Depot kode aplikasi hulu: <https://github.com/penpot/penpot>
 - Gudang YunoHost: <https://apps.yunohost.org/app/penpot>
 - Laporkan bug: <https://github.com/YunoHost-Apps/penpot_ynh/issues>
 
